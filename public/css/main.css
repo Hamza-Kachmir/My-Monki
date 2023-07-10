@@ -1,0 +1,67 @@
+.logo-nav{
+    width: 30%;
+}
+header{
+    background-image: url("../assets/img/forest.jpg");
+    padding: 100px 20px;
+    background-attachment: fixed;
+    background: no-repeat cover;
+    background-position: center center;
+}
+.intro{
+    margin: 20px;
+}
+.intro p{
+    text-align: justify;
+}
+.card{
+    padding: 2rem;
+    margin: 20px 0px;   
+}
+footer{
+    background-image: url("../assets/img/forest.jpg");
+    background-attachment: fixed;
+    color: white;
+    padding:20px;
+}
+footer p{
+    text-align: center;
+}
+h1{
+    text-align: center;
+    color: white;
+    font-size: 2em;  
+}
+.form-group{
+    margin-bottom: 20px;
+}
+.img-log{
+    background-image: url('../assets/img/monkeys-login.jpg');
+    height:200px;
+    background-size: cover;
+background-repeat: no-repeat;
+background-position: center center;
+border-radius: 5px 5px 0px 0px;
+}
+
+.img-create{
+    background-image: url('../assets/img/beach-monkey-creation-compte.jpg') ;
+    height:200px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    border-radius: 5px 5px 0px 0px;
+}
+.img-article{
+    background-image: url('../assets/img/animals-1974166_1920.jpg') ;
+    height:300px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    border-radius: 5px 5px 0px 0px;
+}
+.wrap{
+    border-radius: 5px;
+    box-shadow: 1px 1px 5px grey;
+    margin: 50px 0 ;
+}
